@@ -6,6 +6,8 @@
 [![Bun](https://img.shields.io/badge/Bun-1.2+-f472b6.svg)](https://bun.sh/)
 [![Inngest](https://img.shields.io/badge/Inngest-Self--Hosted-purple.svg)](https://www.inngest.com/docs/self-hosting)
 [![GitHub Copilot](https://img.shields.io/badge/AI-GitHub%20Copilot%20SDK-orange.svg)](https://github.com/github/copilot-sdk)
+[![Set it Free Loop](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHemSoft%2Fhs-conductor%2Fmain%2Fsfl.json&query=%24.version&prefix=v&label=Set%20it%20Free%20Loop&color=FFD700&style=flat&logo=githubactions&logoColor=white)](https://github.com/HemSoft/set-it-free-loop)
+<!-- SFL_BADGE: auto-updated by deploy-workflow.ps1 -->
 
 ## Overview
 
