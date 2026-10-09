@@ -185,9 +185,9 @@ export function TitleBar({ onReload, onFullScreen }: TitleBarProps) {
                 onClick={() => {
                   const shell = (window as unknown as { electronShell?: { openExternal: (url: string) => void } }).electronShell;
                   if (shell) {
-                    shell.openExternal('https://github.com/HemSoft/hs-conductor');
+                    shell.openExternal('https://github.com/hemsoft-dev/hs-conductor');
                   } else {
-                    window.open('https://github.com/HemSoft/hs-conductor', '_blank');
+                    window.open('https://github.com/hemsoft-dev/hs-conductor', '_blank');
                   }
                 }}
               >
