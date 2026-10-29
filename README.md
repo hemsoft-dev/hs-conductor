@@ -1,5 +1,7 @@
 # hs-conductor
 
+Dormant: superseded by the Chief (hemsoft-dev/chief); not maintained.
+
 > Event-Driven Multi-Agent Orchestration with Inngest
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
